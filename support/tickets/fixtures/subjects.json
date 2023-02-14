@@ -1,0 +1,15 @@
+[
+{
+  "model": "tickets.ticket",
+  "pk": 2,
+  "fields": {
+    "sender": 1,
+    "subject": "Some question",
+    "slug": "some-question",
+    "description": "Some question",
+    "answer": "Some answer",
+    "status": "Unresolved",
+    "created": "2023-02-14T11:11:27.480Z"
+  }
+}
+]
